@@ -16,7 +16,7 @@ namespace L3
             int num2 = Math.Abs(num / 10 % 10);
             int num3 = Math.Abs(num % 10);
             bool result = true;
-            if(num1 != num2 && num1 != num3 && num1 != num3)
+            if(num1 != num2 && num1 != num3 && num2 != num3)
             {
                 result = true;
                 Console.WriteLine($"При генирировании получаем число: {num}");
@@ -26,6 +26,7 @@ namespace L3
             else
             {
                 result = false;
+                Console.WriteLine($"При генирировании получаем число: {num}");
                 Console.WriteLine($"Выражение \"Все цифры даного числа разные\" {result}");
                 Console.ReadKey();
             }
