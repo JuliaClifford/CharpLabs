@@ -10,12 +10,13 @@ namespace L3
     {
         static void Main(string[] args)
         {
-            Random randV = new Random();
-            int num = (int)randV.Next(-999, 999);
+            Random rand = new Random();
+            int num = (int)rand.Next(100, 999);
             int num1 = Math.Abs(num / 100);
             int num2 = Math.Abs(num / 10 % 10);
             int num3 = Math.Abs(num % 10);
             bool result = true;
+           
             if(num1 != num2 && num1 != num3 && num2 != num3)
             {
                 result = true;
