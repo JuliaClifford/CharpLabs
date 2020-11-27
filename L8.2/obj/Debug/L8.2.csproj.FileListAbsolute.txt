@@ -1,0 +1,6 @@
+F:\CODE\Julia\L8.2\bin\Debug\L8._2.exe
+F:\CODE\Julia\L8.2\bin\Debug\L8._2.pdb
+F:\CODE\Julia\L8.2\obj\Debug\L8.2.csprojAssemblyReference.cache
+F:\CODE\Julia\L8.2\obj\Debug\L8.2.csproj.CoreCompileInputs.cache
+F:\CODE\Julia\L8.2\obj\Debug\L8._2.exe
+F:\CODE\Julia\L8.2\obj\Debug\L8._2.pdb
