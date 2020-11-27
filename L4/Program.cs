@@ -57,6 +57,7 @@ namespace L4
             {
                 Console.WriteLine(whoBrokeAll);
             }
+            Console.ReadKey();
         }
     }
 }

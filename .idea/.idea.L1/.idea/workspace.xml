@@ -32,10 +32,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="201b4263-5371-4790-947b-a38c3aa4d56f" name="Default Changelist" comment="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.L1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/L1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/L1.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/L2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/L2.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/L3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/L3.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/L1.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L5/obj/Debug/L5.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L5/obj/Debug/L5.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L7/obj/Debug/L7.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L7/obj/Debug/L7.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L8.1/obj/Debug/L8.1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L8.1/obj/Debug/L8.1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L8.2/obj/Debug/L8.2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L8.2/obj/Debug/L8.2.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +91,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.L8.2">
+  <component name="RunManager" selected=".NET Project.L4">
     <configuration name="L1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -157,7 +158,7 @@
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_KIND" value="Unloaded" />
       <option name="PROJECT_TFM" value="" />
       <method v="2">
         <option name="Build" />
@@ -217,28 +218,10 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="L8" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L8/L8.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Unloaded" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
     <configuration name="L8.1" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/L8.1/bin/Debug/L8._1.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L8.1/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -248,15 +231,15 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
     <configuration name="L8.2" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/L8.2/bin/Debug/L8._2.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/L8.2/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -266,29 +249,22 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="Lab8.2" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lab8.2/Lab8.2.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue=".NET Project.L1" />
+      <item itemvalue=".NET Project.L2" />
+      <item itemvalue=".NET Project.L3" />
+      <item itemvalue=".NET Project.L4" />
+      <item itemvalue=".NET Project.L5" />
+      <item itemvalue=".NET Project.L6" />
+      <item itemvalue=".NET Project.L7" />
+      <item itemvalue=".NET Project.L8.1" />
+      <item itemvalue=".NET Project.L8.2" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -301,6 +277,7 @@
       <workItem from="1603730829686" duration="9489000" />
       <workItem from="1606414093735" duration="1115000" />
       <workItem from="1606484790913" duration="5861000" />
+      <workItem from="1606491798427" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2">
       <created>1606488837151</created>
@@ -347,6 +324,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1660" y="-211" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606491960650">
+      <screen x="1366" y="-376" width="1680" height="1020" />
+    </state>
+    <state x="1660" y="-211" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606491960650" />
     <state width="1637" height="408" key="GridCell.Tab.0.bottom" timestamp="1606488779373">
       <screen x="1366" y="-376" width="1680" height="1020" />
     </state>
@@ -478,6 +459,10 @@
     <state x="275" y="101" key="Rider.ProjectTemplateDialog.Size/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603988221981" />
     <state x="1704" y="-298" key="Rider.ProjectTemplateDialog.Size/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603734347649" />
     <state x="275" y="101" key="Rider.ProjectTemplateDialog.Size/0.0.1366.738@0.0.1366.738" timestamp="1606414469751" />
+    <state x="1891" y="-145" key="RollbackChangesDialog" timestamp="1606491852174">
+      <screen x="1366" y="-376" width="1680" height="1020" />
+    </state>
+    <state x="1891" y="-145" key="RollbackChangesDialog/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606491852174" />
     <state x="1798" y="-133" key="Vcs.Push.Dialog.v2" timestamp="1606489205181">
       <screen x="1366" y="-376" width="1680" height="1020" />
     </state>
@@ -493,14 +478,7 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/L7/Program.cs</url>
           <line>11</line>
-          <properties documentPath="F:\CODE\Julia\L7\Program.cs" initialLine="11">
-            <startOffsets>
-              <option value="183" />
-            </startOffsets>
-            <endOffsets>
-              <option value="204" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="F:\CODE\Julia\L7\Program.cs" initialLine="11" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
