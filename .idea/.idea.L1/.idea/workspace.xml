@@ -31,8 +31,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="201b4263-5371-4790-947b-a38c3aa4d56f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/L1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/L1.sln" afterDir="false" />
+    <list default="true" id="201b4263-5371-4790-947b-a38c3aa4d56f" name="Default Changelist" comment="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.L1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/L1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/L1.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L2/obj/Debug/L2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/L2.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L3/obj/Debug/L3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/L3.csprojAssemblyReference.cache" afterDir="false" />
     </list>
@@ -47,8 +48,14 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D6D3AC03-BF86-4882-89C2-EBF3A45CE0A1/d7/1ab6df3e/TextWriter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D6D3AC03-BF86-4882-89C2-EBF3A45CE0A1/be/665c30a9/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L8.1/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L7/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D6D3AC03-BF86-4882-89C2-EBF3A45CE0A1/99/bcd57dc9/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L4/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L5/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D6D3AC03-BF86-4882-89C2-EBF3A45CE0A1/5f/35d9dd77/Console.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L6/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L8.2/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -293,8 +300,16 @@
       <updated>1603730789953</updated>
       <workItem from="1603730829686" duration="9489000" />
       <workItem from="1606414093735" duration="1115000" />
-      <workItem from="1606484790913" duration="3906000" />
+      <workItem from="1606484790913" duration="5861000" />
     </task>
+    <task id="LOCAL-00001" summary="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2">
+      <created>1606488837151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606488837151</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,30 +343,32 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1637" height="408" key="GridCell.Tab.0.bottom" timestamp="1606488439646">
+    <state width="1637" height="408" key="GridCell.Tab.0.bottom" timestamp="1606488779373">
       <screen x="1366" y="-376" width="1680" height="1020" />
     </state>
-    <state width="1637" height="408" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488439646" />
+    <state width="1637" height="408" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488779373" />
     <state width="1637" height="367" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127267" />
     <state width="1637" height="275" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603733626367" />
-    <state width="1637" height="408" key="GridCell.Tab.0.center" timestamp="1606488439645">
+    <state width="1637" height="408" key="GridCell.Tab.0.center" timestamp="1606488779373">
       <screen x="1366" y="-376" width="1680" height="1020" />
     </state>
-    <state width="1637" height="408" key="GridCell.Tab.0.center/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488439645" />
+    <state width="1637" height="408" key="GridCell.Tab.0.center/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488779373" />
     <state width="1637" height="367" key="GridCell.Tab.0.center/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127267" />
     <state width="1637" height="275" key="GridCell.Tab.0.center/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603733626366" />
-    <state width="1637" height="408" key="GridCell.Tab.0.left" timestamp="1606488439645">
+    <state width="1637" height="408" key="GridCell.Tab.0.left" timestamp="1606488779373">
       <screen x="1366" y="-376" width="1680" height="1020" />
     </state>
-    <state width="1637" height="408" key="GridCell.Tab.0.left/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488439645" />
+    <state width="1637" height="408" key="GridCell.Tab.0.left/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488779373" />
     <state width="1637" height="367" key="GridCell.Tab.0.left/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127267" />
     <state width="1637" height="275" key="GridCell.Tab.0.left/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603733626366" />
-    <state width="1637" height="408" key="GridCell.Tab.0.right" timestamp="1606488439645">
+    <state width="1637" height="408" key="GridCell.Tab.0.right" timestamp="1606488779373">
       <screen x="1366" y="-376" width="1680" height="1020" />
     </state>
-    <state width="1637" height="408" key="GridCell.Tab.0.right/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488439645" />
+    <state width="1637" height="408" key="GridCell.Tab.0.right/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488779373" />
     <state width="1637" height="367" key="GridCell.Tab.0.right/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127267" />
     <state width="1637" height="275" key="GridCell.Tab.0.right/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603733626367" />
     <state width="1637" height="367" key="GridCell.Tab.1.bottom" timestamp="1606487792018">
@@ -450,6 +467,10 @@
     <state width="1637" height="367" key="GridCell.Tab.4.right/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792019" />
     <state width="1637" height="367" key="GridCell.Tab.4.right/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127269" />
     <state width="1637" height="367" key="GridCell.Tab.4.right/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695367" />
+    <state x="1621" y="-105" width="946" height="477" key="MultipleFileMergeDialog" timestamp="1606490700638">
+      <screen x="1366" y="-376" width="1680" height="1020" />
+    </state>
+    <state x="1621" y="-105" width="946" height="477" key="MultipleFileMergeDialog/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606490700638" />
     <state x="1704" y="-236" key="Rider.ProjectTemplateDialog.Size" timestamp="1606488567577">
       <screen x="1366" y="-376" width="1680" height="1020" />
     </state>
@@ -457,6 +478,10 @@
     <state x="275" y="101" key="Rider.ProjectTemplateDialog.Size/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603988221981" />
     <state x="1704" y="-298" key="Rider.ProjectTemplateDialog.Size/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603734347649" />
     <state x="275" y="101" key="Rider.ProjectTemplateDialog.Size/0.0.1366.738@0.0.1366.738" timestamp="1606414469751" />
+    <state x="1798" y="-133" key="Vcs.Push.Dialog.v2" timestamp="1606489205181">
+      <screen x="1366" y="-376" width="1680" height="1020" />
+    </state>
+    <state x="1798" y="-133" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606489205181" />
     <state x="1869" y="-156" width="672" height="678" key="search.everywhere.popup" timestamp="1606487101592">
       <screen x="1366" y="-376" width="1680" height="1020" />
     </state>
