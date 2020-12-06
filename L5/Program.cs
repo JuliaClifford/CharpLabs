@@ -1,4 +1,8 @@
-﻿namespace L5
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace L5
 {
     internal class Program
     {
@@ -6,17 +10,49 @@
         {
             int n = 4;
             int m = 5;
-
-            int answer = 0, t = 0, temp = 0;
+            Dictionary<int, int> counter = new Dictionary<int, int>();
             int [,] matrix = new int[4,5]
             {
                     {1, 2, 4, 1, 0},
-                    {3, 3, 6, 9, 11},
-                    {3, 4, 7, 11, 1},
-                    {3, 41, 11, 12, 8}
+                    {3, 3, 6, 9, 8},
+                    {3, 4, 17, 9, 1},
+                    {3, 9, 9, 9, 8}
             };
-
-            
+            var max = (from int x in matrix select x).Max();
+            for (int i = 0; i < max + 1; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    for (int k = 0; k < m; k++)
+                    {
+                        if (matrix[j,k] == i)
+                        {
+                            if (counter.ContainsKey(i))
+                            {
+                                counter[i]++;
+                            }
+                            else
+                            {
+                                counter.Add(i, 1);
+                            }
+                        }
+                    }
+                }
+            }
+            List<int> values = new List<int>();
+            for (int i = 0; i < max + 1; i++)
+            {
+                try
+                {
+                    Console.WriteLine($"{i} Встречается {counter[i]} раз");
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine($"{i} Встречается {0} раз");
+                }
+                
+            }
+            Console.ReadKey();
         }
     }
 }
