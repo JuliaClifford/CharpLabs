@@ -1,0 +1,6 @@
+F:\CODE\Julia\Reflab\L10\bin\Debug\L10.exe
+F:\CODE\Julia\Reflab\L10\bin\Debug\L10.pdb
+F:\CODE\Julia\Reflab\L10\obj\Debug\L10.csprojAssemblyReference.cache
+F:\CODE\Julia\Reflab\L10\obj\Debug\L10.csproj.CoreCompileInputs.cache
+F:\CODE\Julia\Reflab\L10\obj\Debug\L10.exe
+F:\CODE\Julia\Reflab\L10\obj\Debug\L10.pdb
