@@ -1,0 +1,6 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L11\bin\Debug\L11.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L11\bin\Debug\L11.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L11\obj\Debug\L11.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L11\obj\Debug\L11.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L11\obj\Debug\L11.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L11\obj\Debug\L11.pdb

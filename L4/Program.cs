@@ -6,7 +6,7 @@ namespace L4
     {
         public static void Main(string[] args)
         {
-            int[] arr = new int[10] {-1, 2, -5, 6, -7, 8, -9, 12, -13, 2};
+            int[] arr = new int[10] {-1, 2, -5, -6, -7, 8, -9, 13, -13, 2};
             bool isAllPaired = false;
             bool isPrime = false;
             int whoBrokeAll = 0; 

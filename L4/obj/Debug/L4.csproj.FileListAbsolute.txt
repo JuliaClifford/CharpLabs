@@ -4,3 +4,9 @@ F:\CODE\Julia\L4\obj\Debug\L4.csprojAssemblyReference.cache
 F:\CODE\Julia\L4\obj\Debug\L4.csproj.CoreCompileInputs.cache
 F:\CODE\Julia\L4\obj\Debug\L4.exe
 F:\CODE\Julia\L4\obj\Debug\L4.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L4\bin\Debug\L4.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L4\bin\Debug\L4.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L4\obj\Debug\L4.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L4\obj\Debug\L4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L4\obj\Debug\L4.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L4\obj\Debug\L4.pdb
