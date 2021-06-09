@@ -4,3 +4,9 @@ F:\CODE\Julia\Reflab\L10\obj\Debug\L10.csprojAssemblyReference.cache
 F:\CODE\Julia\Reflab\L10\obj\Debug\L10.csproj.CoreCompileInputs.cache
 F:\CODE\Julia\Reflab\L10\obj\Debug\L10.exe
 F:\CODE\Julia\Reflab\L10\obj\Debug\L10.pdb
+E:\CODE\CharpLabs\L10\bin\Debug\L10.exe
+E:\CODE\CharpLabs\L10\bin\Debug\L10.pdb
+E:\CODE\CharpLabs\L10\obj\Debug\L10.csprojAssemblyReference.cache
+E:\CODE\CharpLabs\L10\obj\Debug\L10.csproj.CoreCompileInputs.cache
+E:\CODE\CharpLabs\L10\obj\Debug\L10.exe
+E:\CODE\CharpLabs\L10\obj\Debug\L10.pdb

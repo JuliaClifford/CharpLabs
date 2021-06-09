@@ -5,3 +5,10 @@ C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L3\obj\Debug\L3.cspr
 C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L3\obj\Debug\L3.csproj.CoreCompileInputs.cache
 C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L3\obj\Debug\L3.exe
 C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\L3\obj\Debug\L3.pdb
+E:\CODE\CharpLabs\L3\bin\Debug\L3.exe.config
+E:\CODE\CharpLabs\L3\bin\Debug\L3.exe
+E:\CODE\CharpLabs\L3\bin\Debug\L3.pdb
+E:\CODE\CharpLabs\L3\obj\Debug\L3.csprojAssemblyReference.cache
+E:\CODE\CharpLabs\L3\obj\Debug\L3.csproj.CoreCompileInputs.cache
+E:\CODE\CharpLabs\L3\obj\Debug\L3.exe
+E:\CODE\CharpLabs\L3\obj\Debug\L3.pdb

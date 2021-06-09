@@ -11,6 +11,20 @@
     <projectFile>L8.1/L8.1.csproj</projectFile>
     <projectFile>Lab8.2/Lab8.2.csproj</projectFile>
     <projectFile>L8.2/L8.2.csproj</projectFile>
+    <projectFile>Ex1/Ex1.csproj</projectFile>
+    <projectFile>L9/L9.csproj</projectFile>
+    <projectFile>L10/L10.csproj</projectFile>
+    <projectFile>L11+/L11+.csproj</projectFile>
+    <projectFile>L11/L11.csproj</projectFile>
+    <projectFile>Calculator/Calc.csproj</projectFile>
+    <projectFile>L12/L12.csproj</projectFile>
+    <projectFile>L13/L13.csproj</projectFile>
+    <projectFile>L14/L14.csproj</projectFile>
+    <projectFile>L15/L15.csproj</projectFile>
+    <projectFile>L16/L16.csproj</projectFile>
+    <projectFile>L17/L17.csproj</projectFile>
+    <projectFile>L18/L18.csproj</projectFile>
+    <projectFile>L19/L19.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -32,11 +46,113 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="201b4263-5371-4790-947b-a38c3aa4d56f" name="Default Changelist" comment="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2">
+      <change afterPath="$PROJECT_DIR$/L19/WindowSettings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.L1/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2020_18_24_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2020_18_24__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.L1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/L1/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/L1/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1/obj/Debug/Ex1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/obj/Debug/Ex1.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/L1.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/L1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/L1/L1.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/bin/Debug/L1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L1/bin/Debug/L1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/bin/Debug/L1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L1/bin/Debug/L1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/L1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/L1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/L1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/L1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/L1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/L1.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/L1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/L1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/L1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/L1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L10/bin/Debug/L10.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L10/bin/Debug/L10.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L10/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L10/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L10/obj/Debug/L10.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L10/obj/Debug/L10.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L10/obj/Debug/L10.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L10/obj/Debug/L10.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L10/obj/Debug/L10.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L10/obj/Debug/L10.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11+/bin/Debug/L11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L11+/bin/Debug/L11.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11+/bin/Debug/L11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L11+/bin/Debug/L11.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11+/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L11+/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11+/obj/Debug/L11+.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L11+/obj/Debug/L11+.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11+/obj/Debug/L11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L11+/obj/Debug/L11.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11+/obj/Debug/L11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L11+/obj/Debug/L11.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11/bin/Debug/L11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L11/bin/Debug/L11.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11/bin/Debug/L11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L11/bin/Debug/L11.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L11/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11/obj/Debug/L11.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L11/obj/Debug/L11.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11/obj/Debug/L11.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L11/obj/Debug/L11.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11/obj/Debug/L11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L11/obj/Debug/L11.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L11/obj/Debug/L11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L11/obj/Debug/L11.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L2/L2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/L2/L2.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L2/bin/Debug/L2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L2/bin/Debug/L2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L2/bin/Debug/L2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L2/bin/Debug/L2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/L2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/L2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/L2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/L2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/L2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/L2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/L2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/L2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/L2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/L2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3/L3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/L3/L3.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3/bin/Debug/L3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L3/bin/Debug/L3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3/bin/Debug/L3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L3/bin/Debug/L3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/L3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/L3.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/L3.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/L3.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/L3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/L3.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/L3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/L3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/L3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/L3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L4/bin/Debug/L4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L4/bin/Debug/L4.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L4/bin/Debug/L4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L4/bin/Debug/L4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L4/obj/Debug/L4.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L4/obj/Debug/L4.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L4/obj/Debug/L4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L4/obj/Debug/L4.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L4/obj/Debug/L4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L4/obj/Debug/L4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L5/bin/Debug/L5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L5/bin/Debug/L5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L5/bin/Debug/L5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L5/bin/Debug/L5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L5/obj/Debug/L5.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L5/obj/Debug/L5.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L5/obj/Debug/L5.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L5/obj/Debug/L5.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L5/obj/Debug/L5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L5/obj/Debug/L5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L5/obj/Debug/L5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L5/obj/Debug/L5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L6/obj/Debug/L6.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L6/obj/Debug/L6.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L7/bin/Debug/L7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L7/bin/Debug/L7.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L7/bin/Debug/L7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L7/bin/Debug/L7.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L7/obj/Debug/L7.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L7/obj/Debug/L7.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L7/obj/Debug/L7.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L7/obj/Debug/L7.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8.1/obj/Debug/L8.1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L8.1/obj/Debug/L8.1.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8.2/obj/Debug/L8.2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L8.2/obj/Debug/L8.2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L7/obj/Debug/L7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L7/obj/Debug/L7.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L7/obj/Debug/L7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L7/obj/Debug/L7.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L8.1/bin/Debug/L8._1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L8.1/bin/Debug/L8._1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L8.1/bin/Debug/L8._1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L8.1/bin/Debug/L8._1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L8.1/obj/Debug/L8.1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L8.1/obj/Debug/L8.1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L8.1/obj/Debug/L8._1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L8.1/obj/Debug/L8._1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L8.1/obj/Debug/L8._1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L8.1/obj/Debug/L8._1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L8.2/bin/Debug/L8._2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L8.2/bin/Debug/L8._2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L8.2/bin/Debug/L8._2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L8.2/bin/Debug/L8._2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L8.2/obj/Debug/L8.2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L8.2/obj/Debug/L8.2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L8.2/obj/Debug/L8._2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L8.2/obj/Debug/L8._2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L8.2/obj/Debug/L8._2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L8.2/obj/Debug/L8._2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L9/bin/Debug/L9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L9/bin/Debug/L9.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L9/bin/Debug/L9.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L9/bin/Debug/L9.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L9/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L9/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L9/obj/Debug/L9.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L9/obj/Debug/L9.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L9/obj/Debug/L9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L9/obj/Debug/L9.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L9/obj/Debug/L9.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L9/obj/Debug/L9.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/L4.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/bin/Debug/Lab4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/bin/Debug/Lab4.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/bin/Debug/Lab4.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/L4.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/L4.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/Lab4.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/Lab4.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/Lab4.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/Lab4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/Lab4.pdb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,30 +163,33 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D6D3AC03-BF86-4882-89C2-EBF3A45CE0A1/d7/1ab6df3e/TextWriter.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D6D3AC03-BF86-4882-89C2-EBF3A45CE0A1/be/665c30a9/List`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/L8.1/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/L7/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D6D3AC03-BF86-4882-89C2-EBF3A45CE0A1/99/bcd57dc9/Random.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/L4/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/L5/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D6D3AC03-BF86-4882-89C2-EBF3A45CE0A1/5f/35d9dd77/Console.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/L6/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L7/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L8.1/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/L8.2/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L5/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L6/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/L4/Program.cs" />
-        <option value="$PROJECT_DIR$/L5/Program.cs" />
-        <option value="$PROJECT_DIR$/L6/Program.cs" />
-        <option value="$PROJECT_DIR$/L7/Program.cs" />
-        <option value="$PROJECT_DIR$/L8/Program.cs" />
-        <option value="$PROJECT_DIR$/L8.1/Program.cs" />
-        <option value="$PROJECT_DIR$/Lab8.2/Program.cs" />
-        <option value="$PROJECT_DIR$/L8.2/Program.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/L3/Program.cs" />
+      <option value="$PROJECT_DIR$/L13/Form1.Designer.cs" />
+      <option value="$PROJECT_DIR$/L13/Form1.cs" />
+      <option value="$PROJECT_DIR$/L14/Form1.cs" />
+      <option value="$PROJECT_DIR$/L14/Form1.Designer.cs" />
+      <option value="$PROJECT_DIR$/L15/Form1.cs" />
+      <option value="$PROJECT_DIR$/L15/MainWindow.xaml" />
+      <option value="$PROJECT_DIR$/L15/MainWindow.xaml.cs" />
+      <option value="$PROJECT_DIR$/L16/MainWindow.xaml.cs" />
+      <option value="$PROJECT_DIR$/L16/MainWindow.xaml" />
+      <option value="$PROJECT_DIR$/L17/MainWindow.xaml.cs" />
+      <option value="$PROJECT_DIR$/L17/MainWindow.xaml" />
+      <option value="$PROJECT_DIR$/L18/Form1.Designer.cs" />
+      <option value="$PROJECT_DIR$/L18/Form1.cs" />
+      <option value="$PROJECT_DIR$/L19/Form1.cs" />
+      <option value="$PROJECT_DIR$/L19/MainWindow.xaml" />
+      <option value="$PROJECT_DIR$/L19/MainWindow.xaml.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1jQKBeU1AUo43YDpQDsrul0sWDu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -82,6 +201,7 @@
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34993774" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30012453" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -89,9 +209,46 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.L4">
+  <component name="RunManager" selected=".NET Project.L18">
+    <configuration name="Calc" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Calculator/L12.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Ex1" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Ex1/Ex1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="L1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -101,6 +258,204 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/L1/L1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="L10" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L10/L10.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="L11" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L11/L11.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="L11+" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L11+/L11+.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="L12" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L12/L12.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="L13" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L13/L13.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="L14" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L14/L14.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="L15" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L15/L15.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="L16" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L16/L16.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="L17" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L17/L17.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="L18" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L18/L18.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="L19" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L19/L19.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -254,6 +609,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="L9" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/L9/L9.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue=".NET Project.L1" />
       <item itemvalue=".NET Project.L2" />
@@ -264,6 +637,20 @@
       <item itemvalue=".NET Project.L7" />
       <item itemvalue=".NET Project.L8.1" />
       <item itemvalue=".NET Project.L8.2" />
+      <item itemvalue=".NET Project.Ex1" />
+      <item itemvalue=".NET Project.L9" />
+      <item itemvalue=".NET Project.L10" />
+      <item itemvalue=".NET Project.L11+" />
+      <item itemvalue=".NET Project.L11" />
+      <item itemvalue=".NET Project.Calc" />
+      <item itemvalue=".NET Project.L12" />
+      <item itemvalue=".NET Project.L13" />
+      <item itemvalue=".NET Project.L14" />
+      <item itemvalue=".NET Project.L15" />
+      <item itemvalue=".NET Project.L16" />
+      <item itemvalue=".NET Project.L17" />
+      <item itemvalue=".NET Project.L18" />
+      <item itemvalue=".NET Project.L19" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -278,6 +665,7 @@
       <workItem from="1606414093735" duration="1115000" />
       <workItem from="1606484790913" duration="5861000" />
       <workItem from="1606491798427" duration="162000" />
+      <workItem from="1623273886624" duration="5046000" />
     </task>
     <task id="LOCAL-00001" summary="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2">
       <created>1606488837151</created>
@@ -322,155 +710,6 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2" />
     <option name="LAST_COMMIT_MESSAGE" value="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1660" y="-211" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606491960650">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state x="1660" y="-211" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606491960650" />
-    <state width="1637" height="408" key="GridCell.Tab.0.bottom" timestamp="1606488779373">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="408" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488779373" />
-    <state width="1637" height="367" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127267" />
-    <state width="1637" height="275" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603733626367" />
-    <state width="1637" height="408" key="GridCell.Tab.0.center" timestamp="1606488779373">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="408" key="GridCell.Tab.0.center/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488779373" />
-    <state width="1637" height="367" key="GridCell.Tab.0.center/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127267" />
-    <state width="1637" height="275" key="GridCell.Tab.0.center/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603733626366" />
-    <state width="1637" height="408" key="GridCell.Tab.0.left" timestamp="1606488779373">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="408" key="GridCell.Tab.0.left/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488779373" />
-    <state width="1637" height="367" key="GridCell.Tab.0.left/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127267" />
-    <state width="1637" height="275" key="GridCell.Tab.0.left/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603733626366" />
-    <state width="1637" height="408" key="GridCell.Tab.0.right" timestamp="1606488779373">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="408" key="GridCell.Tab.0.right/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488779373" />
-    <state width="1637" height="367" key="GridCell.Tab.0.right/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127267" />
-    <state width="1637" height="275" key="GridCell.Tab.0.right/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603733626367" />
-    <state width="1637" height="367" key="GridCell.Tab.1.bottom" timestamp="1606487792018">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792018" />
-    <state width="1637" height="367" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127268" />
-    <state width="1637" height="367" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695365" />
-    <state width="1637" height="367" key="GridCell.Tab.1.center" timestamp="1606487792018">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.1.center/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792018" />
-    <state width="1637" height="367" key="GridCell.Tab.1.center/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127267" />
-    <state width="1637" height="367" key="GridCell.Tab.1.center/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695365" />
-    <state width="1637" height="367" key="GridCell.Tab.1.left" timestamp="1606487792018">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.1.left/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792018" />
-    <state width="1637" height="367" key="GridCell.Tab.1.left/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127267" />
-    <state width="1637" height="367" key="GridCell.Tab.1.left/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695365" />
-    <state width="1637" height="367" key="GridCell.Tab.1.right" timestamp="1606487792018">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.1.right/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792018" />
-    <state width="1637" height="367" key="GridCell.Tab.1.right/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127268" />
-    <state width="1637" height="367" key="GridCell.Tab.1.right/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695365" />
-    <state width="1637" height="367" key="GridCell.Tab.2.bottom" timestamp="1606487792019">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.2.bottom/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792019" />
-    <state width="1637" height="367" key="GridCell.Tab.2.bottom/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127268" />
-    <state width="1637" height="367" key="GridCell.Tab.2.bottom/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695366" />
-    <state width="1637" height="367" key="GridCell.Tab.2.center" timestamp="1606487792019">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.2.center/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792019" />
-    <state width="1637" height="367" key="GridCell.Tab.2.center/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127268" />
-    <state width="1637" height="367" key="GridCell.Tab.2.center/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695365" />
-    <state width="1637" height="367" key="GridCell.Tab.2.left" timestamp="1606487792018">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.2.left/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792018" />
-    <state width="1637" height="367" key="GridCell.Tab.2.left/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127268" />
-    <state width="1637" height="367" key="GridCell.Tab.2.left/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695365" />
-    <state width="1637" height="367" key="GridCell.Tab.2.right" timestamp="1606487792019">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.2.right/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792019" />
-    <state width="1637" height="367" key="GridCell.Tab.2.right/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127268" />
-    <state width="1637" height="367" key="GridCell.Tab.2.right/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695366" />
-    <state width="1637" height="367" key="GridCell.Tab.3.bottom" timestamp="1606487792019">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.3.bottom/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792019" />
-    <state width="1637" height="367" key="GridCell.Tab.3.bottom/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127269" />
-    <state width="1637" height="367" key="GridCell.Tab.3.bottom/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695367" />
-    <state width="1637" height="367" key="GridCell.Tab.3.center" timestamp="1606487792019">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.3.center/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792019" />
-    <state width="1637" height="367" key="GridCell.Tab.3.center/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127268" />
-    <state width="1637" height="367" key="GridCell.Tab.3.center/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695366" />
-    <state width="1637" height="367" key="GridCell.Tab.3.left" timestamp="1606487792019">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.3.left/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792019" />
-    <state width="1637" height="367" key="GridCell.Tab.3.left/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127268" />
-    <state width="1637" height="367" key="GridCell.Tab.3.left/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695366" />
-    <state width="1637" height="367" key="GridCell.Tab.3.right" timestamp="1606487792019">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.3.right/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792019" />
-    <state width="1637" height="367" key="GridCell.Tab.3.right/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127268" />
-    <state width="1637" height="367" key="GridCell.Tab.3.right/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695367" />
-    <state width="1637" height="367" key="GridCell.Tab.4.bottom" timestamp="1606487792019">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.4.bottom/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792019" />
-    <state width="1637" height="367" key="GridCell.Tab.4.bottom/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127269" />
-    <state width="1637" height="367" key="GridCell.Tab.4.bottom/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695367" />
-    <state width="1637" height="367" key="GridCell.Tab.4.center" timestamp="1606487792019">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.4.center/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792019" />
-    <state width="1637" height="367" key="GridCell.Tab.4.center/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127269" />
-    <state width="1637" height="367" key="GridCell.Tab.4.center/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695367" />
-    <state width="1637" height="367" key="GridCell.Tab.4.left" timestamp="1606487792019">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.4.left/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792019" />
-    <state width="1637" height="367" key="GridCell.Tab.4.left/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127269" />
-    <state width="1637" height="367" key="GridCell.Tab.4.left/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695367" />
-    <state width="1637" height="367" key="GridCell.Tab.4.right" timestamp="1606487792019">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state width="1637" height="367" key="GridCell.Tab.4.right/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487792019" />
-    <state width="1637" height="367" key="GridCell.Tab.4.right/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603989127269" />
-    <state width="1637" height="367" key="GridCell.Tab.4.right/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603732695367" />
-    <state x="1621" y="-105" width="946" height="477" key="MultipleFileMergeDialog" timestamp="1606490700638">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state x="1621" y="-105" width="946" height="477" key="MultipleFileMergeDialog/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606490700638" />
-    <state x="1704" y="-236" key="Rider.ProjectTemplateDialog.Size" timestamp="1606488567577">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state x="1704" y="-236" key="Rider.ProjectTemplateDialog.Size/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606488567577" />
-    <state x="275" y="101" key="Rider.ProjectTemplateDialog.Size/0.0.1366.738/1366.-438.1680.1020@0.0.1366.738" timestamp="1603988221981" />
-    <state x="1704" y="-298" key="Rider.ProjectTemplateDialog.Size/0.0.1366.738/1366.-438.1680.1020@1366.-438.1680.1020" timestamp="1603734347649" />
-    <state x="275" y="101" key="Rider.ProjectTemplateDialog.Size/0.0.1366.738@0.0.1366.738" timestamp="1606414469751" />
-    <state x="1891" y="-145" key="RollbackChangesDialog" timestamp="1606491852174">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state x="1891" y="-145" key="RollbackChangesDialog/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606491852174" />
-    <state x="1798" y="-133" key="Vcs.Push.Dialog.v2" timestamp="1606489205181">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state x="1798" y="-133" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606489205181" />
-    <state x="1869" y="-156" width="672" height="678" key="search.everywhere.popup" timestamp="1606487101592">
-      <screen x="1366" y="-376" width="1680" height="1020" />
-    </state>
-    <state x="1869" y="-156" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.-376.1680.1020@1366.-376.1680.1020" timestamp="1606487101592" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,0 +1,15 @@
+E:\CODE\CharpLabs\L15\bin\Debug\L15.exe.config
+E:\CODE\CharpLabs\L15\bin\Debug\L15.exe
+E:\CODE\CharpLabs\L15\bin\Debug\L15.pdb
+E:\CODE\CharpLabs\L15\obj\Debug\L15.csprojAssemblyReference.cache
+E:\CODE\CharpLabs\L15\obj\Debug\MainWindow.g.cs
+E:\CODE\CharpLabs\L15\obj\Debug\App.g.cs
+E:\CODE\CharpLabs\L15\obj\Debug\L15_MarkupCompile.cache
+E:\CODE\CharpLabs\L15\obj\Debug\L15_MarkupCompile.lref
+E:\CODE\CharpLabs\L15\obj\Debug\MainWindow.baml
+E:\CODE\CharpLabs\L15\obj\Debug\L15.g.resources
+E:\CODE\CharpLabs\L15\obj\Debug\L15.Properties.Resources.resources
+E:\CODE\CharpLabs\L15\obj\Debug\L15.csproj.GenerateResource.cache
+E:\CODE\CharpLabs\L15\obj\Debug\L15.csproj.CoreCompileInputs.cache
+E:\CODE\CharpLabs\L15\obj\Debug\L15.exe
+E:\CODE\CharpLabs\L15\obj\Debug\L15.pdb

@@ -1,0 +1,6 @@
+E:\CODE\CharpLabs\L6\bin\Debug\L6.exe
+E:\CODE\CharpLabs\L6\bin\Debug\L6.pdb
+E:\CODE\CharpLabs\L6\obj\Debug\L6.csprojAssemblyReference.cache
+E:\CODE\CharpLabs\L6\obj\Debug\L6.csproj.CoreCompileInputs.cache
+E:\CODE\CharpLabs\L6\obj\Debug\L6.exe
+E:\CODE\CharpLabs\L6\obj\Debug\L6.pdb

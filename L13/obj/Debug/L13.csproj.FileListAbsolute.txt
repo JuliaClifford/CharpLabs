@@ -1,0 +1,10 @@
+E:\CODE\CharpLabs\L13\bin\Debug\L13.exe.config
+E:\CODE\CharpLabs\L13\bin\Debug\L13.exe
+E:\CODE\CharpLabs\L13\bin\Debug\L13.pdb
+E:\CODE\CharpLabs\L13\obj\Debug\L13.csprojAssemblyReference.cache
+E:\CODE\CharpLabs\L13\obj\Debug\L13.Properties.Resources.resources
+E:\CODE\CharpLabs\L13\obj\Debug\L13.csproj.GenerateResource.cache
+E:\CODE\CharpLabs\L13\obj\Debug\L13.csproj.CoreCompileInputs.cache
+E:\CODE\CharpLabs\L13\obj\Debug\L13.exe
+E:\CODE\CharpLabs\L13\obj\Debug\L13.pdb
+E:\CODE\CharpLabs\L13\obj\Debug\L13.Form1.resources

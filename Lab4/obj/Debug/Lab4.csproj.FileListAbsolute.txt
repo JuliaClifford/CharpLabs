@@ -1,7 +1,0 @@
-C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\Lab4\bin\Debug\Lab4.exe.config
-C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\Lab4\bin\Debug\Lab4.exe
-C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\Lab4\bin\Debug\Lab4.pdb
-C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
-C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
-C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\Lab4\obj\Debug\Lab4.exe
-C:\Users\Dell\OneDrive\Рабочий стол\C#\CharpLabs\Lab4\obj\Debug\Lab4.pdb
