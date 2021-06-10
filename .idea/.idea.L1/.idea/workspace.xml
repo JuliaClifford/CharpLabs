@@ -46,113 +46,82 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="201b4263-5371-4790-947b-a38c3aa4d56f" name="Default Changelist" comment="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2">
-      <change afterPath="$PROJECT_DIR$/L19/WindowSettings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.L1/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2020_18_24_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/shelf/Uncommitted_changes_before_Update_at_27_11_2020_18_24__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.L1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.L1/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/L1/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/L1/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1/obj/Debug/Ex1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1/obj/Debug/Ex1.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/L1.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L1/L1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/L1/L1.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L1/bin/Debug/L1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L1/bin/Debug/L1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L1/bin/Debug/L1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L1/bin/Debug/L1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/L1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/L1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/L1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/L1.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L1/obj/Debug/L1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/L1.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/L1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/L1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L1/obj/Debug/L1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L1/obj/Debug/L1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L10/bin/Debug/L10.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L10/bin/Debug/L10.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L10/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L10/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L10/obj/Debug/L10.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L10/obj/Debug/L10.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L10/obj/Debug/L10.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L10/obj/Debug/L10.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L10/obj/Debug/L10.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L10/obj/Debug/L10.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11+/bin/Debug/L11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L11+/bin/Debug/L11.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11+/bin/Debug/L11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L11+/bin/Debug/L11.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11+/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L11+/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11+/obj/Debug/L11+.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L11+/obj/Debug/L11+.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11+/obj/Debug/L11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L11+/obj/Debug/L11.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11+/obj/Debug/L11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L11+/obj/Debug/L11.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11/bin/Debug/L11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L11/bin/Debug/L11.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11/bin/Debug/L11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L11/bin/Debug/L11.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L11/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11/obj/Debug/L11.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L11/obj/Debug/L11.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11/obj/Debug/L11.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L11/obj/Debug/L11.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11/obj/Debug/L11.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L11/obj/Debug/L11.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L11/obj/Debug/L11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L11/obj/Debug/L11.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/L2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/L2/L2.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/bin/Debug/L2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L2/bin/Debug/L2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/bin/Debug/L2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L2/bin/Debug/L2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/L2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/L2.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/L2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/L2.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/L2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/L2.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/L2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/L2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L2/obj/Debug/L2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L2/obj/Debug/L2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3/L3.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/L3/L3.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3/bin/Debug/L3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L3/bin/Debug/L3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3/bin/Debug/L3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L3/bin/Debug/L3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/L3.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/L3.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/L3.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/L3.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/L3.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/L3.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/L3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/L3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3/obj/Debug/L3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L3/obj/Debug/L3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L4/bin/Debug/L4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L4/bin/Debug/L4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L4/bin/Debug/L4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L4/bin/Debug/L4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L4/obj/Debug/L4.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L4/obj/Debug/L4.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L4/obj/Debug/L4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L4/obj/Debug/L4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L4/obj/Debug/L4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L4/obj/Debug/L4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L5/bin/Debug/L5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L5/bin/Debug/L5.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L5/bin/Debug/L5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L5/bin/Debug/L5.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L5/obj/Debug/L5.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L5/obj/Debug/L5.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L5/obj/Debug/L5.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L5/obj/Debug/L5.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L5/obj/Debug/L5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L5/obj/Debug/L5.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L5/obj/Debug/L5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L5/obj/Debug/L5.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L6/obj/Debug/L6.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L6/obj/Debug/L6.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L7/bin/Debug/L7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L7/bin/Debug/L7.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L7/bin/Debug/L7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L7/bin/Debug/L7.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L7/obj/Debug/L7.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L7/obj/Debug/L7.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L7/obj/Debug/L7.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L7/obj/Debug/L7.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L7/obj/Debug/L7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L7/obj/Debug/L7.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L7/obj/Debug/L7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L7/obj/Debug/L7.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8.1/bin/Debug/L8._1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L8.1/bin/Debug/L8._1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8.1/bin/Debug/L8._1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L8.1/bin/Debug/L8._1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8.1/obj/Debug/L8.1.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L8.1/obj/Debug/L8.1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8.1/obj/Debug/L8._1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L8.1/obj/Debug/L8._1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8.1/obj/Debug/L8._1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L8.1/obj/Debug/L8._1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8.2/bin/Debug/L8._2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L8.2/bin/Debug/L8._2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8.2/bin/Debug/L8._2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L8.2/bin/Debug/L8._2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8.2/obj/Debug/L8.2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L8.2/obj/Debug/L8.2.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8.2/obj/Debug/L8._2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L8.2/obj/Debug/L8._2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L8.2/obj/Debug/L8._2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L8.2/obj/Debug/L8._2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L9/bin/Debug/L9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L9/bin/Debug/L9.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L9/bin/Debug/L9.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L9/bin/Debug/L9.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L9/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L9/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L9/obj/Debug/L9.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L9/obj/Debug/L9.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L9/obj/Debug/L9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L9/obj/Debug/L9.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L9/obj/Debug/L9.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L9/obj/Debug/L9.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/L4.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/bin/Debug/Lab4.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/bin/Debug/Lab4.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/bin/Debug/Lab4.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/L4.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/L4.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/Lab4.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/Lab4.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/Lab4.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/Lab4.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/obj/Debug/Lab4.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/bin/Debug/L12.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L12/bin/Debug/L12.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/bin/Debug/L12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L12/bin/Debug/L12.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/obj/Debug/L12.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L12/obj/Debug/L12.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/obj/Debug/L12.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L12/obj/Debug/L12.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/obj/Debug/L12.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L12/obj/Debug/L12.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/obj/Debug/L12.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L12/obj/Debug/L12.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/obj/Debug/L12.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L12/obj/Debug/L12.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/obj/Debug/L12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L12/obj/Debug/L12.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/obj/Debug/L12_MarkupCompile.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L12/obj/Debug/L12_MarkupCompile.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L12/obj/Debug/L12_MarkupCompile.lref" beforeDir="false" afterPath="$PROJECT_DIR$/L12/obj/Debug/L12_MarkupCompile.lref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L13/bin/Debug/L13.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L13/bin/Debug/L13.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L13/bin/Debug/L13.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L13/bin/Debug/L13.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L13/obj/Debug/L13.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L13/obj/Debug/L13.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L13/obj/Debug/L13.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L13/obj/Debug/L13.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L13/obj/Debug/L13.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L13/obj/Debug/L13.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L13/obj/Debug/L13.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L13/obj/Debug/L13.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L13/obj/Debug/L13.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L13/obj/Debug/L13.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L14/bin/Debug/L14.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L14/bin/Debug/L14.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L14/bin/Debug/L14.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L14/bin/Debug/L14.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L14/obj/Debug/L14.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L14/obj/Debug/L14.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L14/obj/Debug/L14.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L14/obj/Debug/L14.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L14/obj/Debug/L14.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L14/obj/Debug/L14.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L14/obj/Debug/L14.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L14/obj/Debug/L14.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L14/obj/Debug/L14.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L14/obj/Debug/L14.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L15/bin/Debug/L15.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L15/bin/Debug/L15.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L15/bin/Debug/L15.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L15/bin/Debug/L15.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L15/obj/Debug/L15.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L15/obj/Debug/L15.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L15/obj/Debug/L15.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L15/obj/Debug/L15.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L15/obj/Debug/L15.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L15/obj/Debug/L15.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L15/obj/Debug/L15.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L15/obj/Debug/L15.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L15/obj/Debug/L15.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L15/obj/Debug/L15.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L15/obj/Debug/L15.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L15/obj/Debug/L15.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L15/obj/Debug/L15_MarkupCompile.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L15/obj/Debug/L15_MarkupCompile.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L15/obj/Debug/L15_MarkupCompile.lref" beforeDir="false" afterPath="$PROJECT_DIR$/L15/obj/Debug/L15_MarkupCompile.lref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L16/bin/Debug/L16.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L16/bin/Debug/L16.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L16/bin/Debug/L16.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L16/bin/Debug/L16.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L16/obj/Debug/L16.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L16/obj/Debug/L16.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L16/obj/Debug/L16.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L16/obj/Debug/L16.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L16/obj/Debug/L16.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L16/obj/Debug/L16.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L16/obj/Debug/L16.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L16/obj/Debug/L16.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L16/obj/Debug/L16.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L16/obj/Debug/L16.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L16/obj/Debug/L16.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L16/obj/Debug/L16.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L16/obj/Debug/L16_MarkupCompile.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L16/obj/Debug/L16_MarkupCompile.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L16/obj/Debug/L16_MarkupCompile.lref" beforeDir="false" afterPath="$PROJECT_DIR$/L16/obj/Debug/L16_MarkupCompile.lref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L17/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/L17/MainWindow.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L17/bin/Debug/L17.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L17/bin/Debug/L17.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L17/bin/Debug/L17.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L17/bin/Debug/L17.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L17/obj/Debug/L17.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L17/obj/Debug/L17.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L17/obj/Debug/L17.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L17/obj/Debug/L17.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L17/obj/Debug/L17.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L17/obj/Debug/L17.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L17/obj/Debug/L17.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L17/obj/Debug/L17.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L17/obj/Debug/L17.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L17/obj/Debug/L17.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L17/obj/Debug/L17.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L17/obj/Debug/L17.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L17/obj/Debug/L17_MarkupCompile.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L17/obj/Debug/L17_MarkupCompile.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L17/obj/Debug/L17_MarkupCompile.lref" beforeDir="false" afterPath="$PROJECT_DIR$/L17/obj/Debug/L17_MarkupCompile.lref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L18/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/L18/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L18/bin/Debug/L18.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L18/bin/Debug/L18.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L18/bin/Debug/L18.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L18/bin/Debug/L18.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L18/obj/Debug/L18.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/L18/obj/Debug/L18.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L18/obj/Debug/L18.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L18/obj/Debug/L18.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L18/obj/Debug/L18.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L18/obj/Debug/L18.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L18/obj/Debug/L18.exe" beforeDir="false" afterPath="$PROJECT_DIR$/L18/obj/Debug/L18.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L18/obj/Debug/L18.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/L18/obj/Debug/L18.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L19/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/L19/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L19/obj/Debug/net5.0-windows/L19.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L19/obj/Debug/net5.0-windows/L19.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L19/obj/Debug/net5.0-windows/L19.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L19/obj/Debug/net5.0-windows/L19.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L19/obj/Debug/net5.0-windows/MainWindow.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/L19/obj/Debug/net5.0-windows/MainWindow.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L19/obj/Debug/net5.0-windows/MainWindow.g.i.cs" beforeDir="false" afterPath="$PROJECT_DIR$/L19/obj/Debug/net5.0-windows/MainWindow.g.i.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L19/obj/L19.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/L19/obj/L19.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L19/obj/L19.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/L19/obj/L19.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L19/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/L19/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L19/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/L19/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L19/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/L19/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L19/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/L19/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,12 +132,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/L4/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L6/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/L7/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L5/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/L8.1/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/L8.2/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/L5/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/L6/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/L4/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -182,13 +151,14 @@
       <option value="$PROJECT_DIR$/L15/MainWindow.xaml.cs" />
       <option value="$PROJECT_DIR$/L16/MainWindow.xaml.cs" />
       <option value="$PROJECT_DIR$/L16/MainWindow.xaml" />
-      <option value="$PROJECT_DIR$/L17/MainWindow.xaml.cs" />
-      <option value="$PROJECT_DIR$/L17/MainWindow.xaml" />
       <option value="$PROJECT_DIR$/L18/Form1.Designer.cs" />
-      <option value="$PROJECT_DIR$/L18/Form1.cs" />
       <option value="$PROJECT_DIR$/L19/Form1.cs" />
       <option value="$PROJECT_DIR$/L19/MainWindow.xaml" />
       <option value="$PROJECT_DIR$/L19/MainWindow.xaml.cs" />
+      <option value="$PROJECT_DIR$/L19/AssemblyInfo.cs" />
+      <option value="$PROJECT_DIR$/L18/Form1.cs" />
+      <option value="$PROJECT_DIR$/L17/MainWindow.xaml.cs" />
+      <option value="$PROJECT_DIR$/L17/MainWindow.xaml" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1jQKBeU1AUo43YDpQDsrul0sWDu" />
@@ -198,8 +168,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34993774" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30012453" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.349689" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -212,7 +182,7 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.L18">
+  <component name="RunManager" selected=".NET Project.L19">
     <configuration name="Calc" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -666,6 +636,7 @@
       <workItem from="1606484790913" duration="5861000" />
       <workItem from="1606491798427" duration="162000" />
       <workItem from="1623273886624" duration="5046000" />
+      <workItem from="1623339029049" duration="1877000" />
     </task>
     <task id="LOCAL-00001" summary="+Lab 6&#10;+Lab 7&#10;+Lab 8.1&#10;+Lab 8.2">
       <created>1606488837151</created>

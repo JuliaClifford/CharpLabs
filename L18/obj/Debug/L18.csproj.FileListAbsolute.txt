@@ -8,3 +8,13 @@ E:\CODE\CharpLabs\L18\obj\Debug\L18.exe
 E:\CODE\CharpLabs\L18\obj\Debug\L18.pdb
 E:\CODE\CharpLabs\L18\obj\Debug\L18.csprojAssemblyReference.cache
 E:\CODE\CharpLabs\L18\obj\Debug\L18.Form1.resources
+D:\The University\C#\CharpLabs\L18\bin\Debug\L18.exe.config
+D:\The University\C#\CharpLabs\L18\bin\Debug\L18.exe
+D:\The University\C#\CharpLabs\L18\bin\Debug\L18.pdb
+D:\The University\C#\CharpLabs\L18\obj\Debug\L18.csprojAssemblyReference.cache
+D:\The University\C#\CharpLabs\L18\obj\Debug\L18.Form1.resources
+D:\The University\C#\CharpLabs\L18\obj\Debug\L18.Properties.Resources.resources
+D:\The University\C#\CharpLabs\L18\obj\Debug\L18.csproj.GenerateResource.cache
+D:\The University\C#\CharpLabs\L18\obj\Debug\L18.csproj.CoreCompileInputs.cache
+D:\The University\C#\CharpLabs\L18\obj\Debug\L18.exe
+D:\The University\C#\CharpLabs\L18\obj\Debug\L18.pdb

@@ -13,3 +13,18 @@ E:\CODE\CharpLabs\L15\obj\Debug\L15.csproj.GenerateResource.cache
 E:\CODE\CharpLabs\L15\obj\Debug\L15.csproj.CoreCompileInputs.cache
 E:\CODE\CharpLabs\L15\obj\Debug\L15.exe
 E:\CODE\CharpLabs\L15\obj\Debug\L15.pdb
+D:\The University\C#\CharpLabs\L15\bin\Debug\L15.exe.config
+D:\The University\C#\CharpLabs\L15\bin\Debug\L15.exe
+D:\The University\C#\CharpLabs\L15\bin\Debug\L15.pdb
+D:\The University\C#\CharpLabs\L15\obj\Debug\L15.csprojAssemblyReference.cache
+D:\The University\C#\CharpLabs\L15\obj\Debug\MainWindow.g.cs
+D:\The University\C#\CharpLabs\L15\obj\Debug\App.g.cs
+D:\The University\C#\CharpLabs\L15\obj\Debug\L15_MarkupCompile.cache
+D:\The University\C#\CharpLabs\L15\obj\Debug\L15_MarkupCompile.lref
+D:\The University\C#\CharpLabs\L15\obj\Debug\MainWindow.baml
+D:\The University\C#\CharpLabs\L15\obj\Debug\L15.g.resources
+D:\The University\C#\CharpLabs\L15\obj\Debug\L15.Properties.Resources.resources
+D:\The University\C#\CharpLabs\L15\obj\Debug\L15.csproj.GenerateResource.cache
+D:\The University\C#\CharpLabs\L15\obj\Debug\L15.csproj.CoreCompileInputs.cache
+D:\The University\C#\CharpLabs\L15\obj\Debug\L15.exe
+D:\The University\C#\CharpLabs\L15\obj\Debug\L15.pdb

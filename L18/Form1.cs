@@ -15,7 +15,7 @@ namespace L18
     {
         private const string FolderName = "Folder_";
         
-        private const string TestDirectoryName = "100 Folders here!";
+        private const string TestDirectoryName = "Your 100 Folders here!";
         
         private const int NumberSubFolders = 100;
         
@@ -85,7 +85,7 @@ namespace L18
                 _dirInfo.CreateSubdirectory(FolderName + i);
             }
 
-            MessageBox.Show("Проверьте рабочий стол! (После ОК проверять будет нечего)");
+            MessageBox.Show("Проверьте рабочий стол! (После нажатия ОК проверять будет нечего)");
 
             if (_dirInfo.Exists)
             {
