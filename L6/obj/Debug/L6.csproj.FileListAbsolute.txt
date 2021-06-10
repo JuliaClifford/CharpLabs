@@ -4,3 +4,9 @@ E:\CODE\CharpLabs\L6\obj\Debug\L6.csprojAssemblyReference.cache
 E:\CODE\CharpLabs\L6\obj\Debug\L6.csproj.CoreCompileInputs.cache
 E:\CODE\CharpLabs\L6\obj\Debug\L6.exe
 E:\CODE\CharpLabs\L6\obj\Debug\L6.pdb
+D:\The University\C#\CharpLabs\L6\bin\Debug\L6.exe
+D:\The University\C#\CharpLabs\L6\bin\Debug\L6.pdb
+D:\The University\C#\CharpLabs\L6\obj\Debug\L6.csprojAssemblyReference.cache
+D:\The University\C#\CharpLabs\L6\obj\Debug\L6.csproj.CoreCompileInputs.cache
+D:\The University\C#\CharpLabs\L6\obj\Debug\L6.exe
+D:\The University\C#\CharpLabs\L6\obj\Debug\L6.pdb

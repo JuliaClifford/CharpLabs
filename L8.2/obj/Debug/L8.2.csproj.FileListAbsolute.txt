@@ -10,3 +10,9 @@ E:\CODE\CharpLabs\L8.2\obj\Debug\L8.2.csprojAssemblyReference.cache
 E:\CODE\CharpLabs\L8.2\obj\Debug\L8.2.csproj.CoreCompileInputs.cache
 E:\CODE\CharpLabs\L8.2\obj\Debug\L8._2.exe
 E:\CODE\CharpLabs\L8.2\obj\Debug\L8._2.pdb
+D:\The University\C#\CharpLabs\L8.2\bin\Debug\L8._2.exe
+D:\The University\C#\CharpLabs\L8.2\bin\Debug\L8._2.pdb
+D:\The University\C#\CharpLabs\L8.2\obj\Debug\L8.2.csprojAssemblyReference.cache
+D:\The University\C#\CharpLabs\L8.2\obj\Debug\L8.2.csproj.CoreCompileInputs.cache
+D:\The University\C#\CharpLabs\L8.2\obj\Debug\L8._2.exe
+D:\The University\C#\CharpLabs\L8.2\obj\Debug\L8._2.pdb

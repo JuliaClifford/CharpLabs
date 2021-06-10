@@ -12,3 +12,10 @@ E:\CODE\CharpLabs\L1\obj\Debug\L1.csprojAssemblyReference.cache
 E:\CODE\CharpLabs\L1\obj\Debug\L1.csproj.CoreCompileInputs.cache
 E:\CODE\CharpLabs\L1\obj\Debug\L1.exe
 E:\CODE\CharpLabs\L1\obj\Debug\L1.pdb
+D:\The University\C#\CharpLabs\L1\bin\Debug\L1.exe.config
+D:\The University\C#\CharpLabs\L1\bin\Debug\L1.exe
+D:\The University\C#\CharpLabs\L1\bin\Debug\L1.pdb
+D:\The University\C#\CharpLabs\L1\obj\Debug\L1.csprojAssemblyReference.cache
+D:\The University\C#\CharpLabs\L1\obj\Debug\L1.csproj.CoreCompileInputs.cache
+D:\The University\C#\CharpLabs\L1\obj\Debug\L1.exe
+D:\The University\C#\CharpLabs\L1\obj\Debug\L1.pdb
